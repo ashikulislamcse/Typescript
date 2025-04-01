@@ -1,2 +1,4 @@
-var user_name = "Ashikul Islam";
-console.log(user_name);
+var userName = "Ashikul Islam";
+var age = 19;
+console.log(userName);
+console.log(age);
